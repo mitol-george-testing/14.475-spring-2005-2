@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e6d16e5a-44eb-206c-ff2d-2b0dd32a2714"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Environmental Economics and Government Responses to Market Failure",
+  "course_description": "This course explores the theory behind and evidence on regulatory, tax, and other government responses to problems of market failure. Special emphasis is given to developing and implementing tools to evaluate environmental policies. Other topics include cost-benefit analysis, measurement of the benefits of non-market goods and costs of regulations, and the evaluation of the impact of regulations in areas such as financial markets, workplace health and safety, consumer product safety, and other contexts.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.475",
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
